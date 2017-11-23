@@ -26,4 +26,8 @@ zuul:
         path: /mp-notificador/**
         serviceId: mp-notificador
         stripPrefix: true
+    mp-auditoria:
+        path: /mp-auditoria/**
+        serviceId: mp-auditoria
+        stripPrefix: true
       
