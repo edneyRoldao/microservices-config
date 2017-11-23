@@ -22,3 +22,8 @@ zuul:
         path: /card-statement-composite/**
         serviceId: card-statement-composite
         stripPrefix: true
+    mp-notificador:
+        path: /mp-notificador/**
+        serviceId: mp-notificador
+        stripPrefix: true
+      
